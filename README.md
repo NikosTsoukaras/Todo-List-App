@@ -33,13 +33,16 @@ A simple and modern Todo List application built with React. This app allows you 
         ├── Task.jsx
         ├── Tasks.jsx
         └── UpdateTaskForm.jsx
-
+```
 
 ## Getting Started
 1. **Install dependencies:**
+    ```bash
     npm install
+    ```
    
 
 2. **Run the development server:**
+    ```bash
     npm run dev
-   
+    ```
